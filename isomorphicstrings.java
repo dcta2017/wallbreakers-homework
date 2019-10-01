@@ -1,3 +1,7 @@
+/**
+Daziah Turner, 10/01/2019. The following class is my solution to the Isomorphic Strings challenge on LeetCode. It takes in 
+two strings as the parameters and returns a boolean value to determine whether or not the two strings are isomorphic.
+*/
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         // Create an array of chars for s
