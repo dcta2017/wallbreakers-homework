@@ -38,7 +38,7 @@ class Solution {
                 }
             }
         }
-        // If differ occurrances, then false, otherwise true
+        // If occurrences differ, then false, otherwise true
         if (count1 != count2 || double1 != double2) {
             return false;
         }
